@@ -1,0 +1,86 @@
+# 
+# 
+
+newmtl 1
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.5040 0.5040 0.5040
+	Ke 0.0000 0.0000 0.0000
+	map_Ka van_swat_windows_d.dds
+	map_Kd van_swat_windows_d.dds
+
+newmtl 3
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.3780 0.3780 0.3780
+	Ke 0.0000 0.0000 0.0000
+	map_Ka van_swat_2_d.dds
+	map_Kd van_swat_2_d.dds
+
+newmtl 4
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.5310 0.5310 0.5310
+	Ke 0.0000 0.0000 0.0000
+	map_Ka van_swat_1_d.dds
+	map_Kd van_swat_1_d.dds
+
+newmtl 0
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.6660 0.6660 0.6660
+	Ke 0.0000 0.0000 0.0000
+	map_Ka van_swat_wheels_d.dds
+	map_Kd van_swat_wheels_d.dds
+
+newmtl Standard_7
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.4320 0.4320 0.4320
+	Ke 0.0000 0.0000 0.0000
+	map_Ka van_swat_underside_d.dds
+	map_Kd van_swat_underside_d.dds
+
+newmtl 2
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.4860 0.4860 0.4860
+	Ke 0.0000 0.0000 0.0000
+	map_Ka van_swat_logo_d.dds
+	map_Kd van_swat_logo_d.dds
